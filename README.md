@@ -1,7 +1,12 @@
-🔋 NUT-Kiosk-Browser
+# **🔋 NUT-Kiosk-Browser**
 
 A lightweight, dedicated "Single Site Browser" (SSB) built in Python to monitor Network UPS Tools (NUT) CGI statistics. This tool provides a clean, borderless window that auto-refreshes—perfect for a persistent "kiosk" view on your desktop or a dedicated monitoring station.
-🌟 Features
+
+
+![Screenshot](https://raw.githubusercontent.com/COUPON4Vitamins/NUT-Kiosk-Browser/refs/heads/main/Screenshot%20From%202026-01-20%2002-25-51.png)
+
+
+**🌟 Features**
 
   👉 Simplified Installation: Includes a shell script to automate dependency checks and desktop integration.
 
@@ -10,8 +15,12 @@ A lightweight, dedicated "Single Site Browser" (SSB) built in Python to monitor 
   👉 Low Footprint: Uses a lightweight Qt6 WebEngine wrapper—much more efficient than a full browser tab.
 
   👉 Desktop Integrated: Provides a custom icon and groups correctly on the GNOME taskbar.
+  
 
-🚀 Installation
+![Screenshot](https://raw.githubusercontent.com/COUPON4Vitamins/NUT-Kiosk-Browser/refs/heads/main/Screenshot%20From%202026-01-20%2002-30-31.png)
+
+
+**🚀 Installation**
 
   Download and Extract the project folder.
 
@@ -22,7 +31,11 @@ A lightweight, dedicated "Single Site Browser" (SSB) built in Python to monitor 
     chmod +x install.sh
     ./install.sh
 
-⚙️ Customization: Changing the Refresh Rate
+
+![Screenshot](https://raw.githubusercontent.com/COUPON4Vitamins/NUT-Kiosk-Browser/refs/heads/main/Screenshot%20From%202026-01-20%2002-27-51.png)
+
+
+**⚙️ Customization:** Changing the Refresh Rate
 
 By default, the browser refreshes the UPS status every 30 seconds. If you want to change this frequency:
 
@@ -44,6 +57,6 @@ By default, the browser refreshes the UPS status every 30 seconds. If you want t
 
 🛠️ Requirements
 
-   OS: Recent GNU/Linux (Tested on Debian 13 "Trixie" / GNOME Desktop)
+   OS: Recent  🐧 GNU/Linux (Tested on Debian 13 "Trixie" / GNOME Desktop)
 
-  Packages: python3-pyqt6, python3-pyqt6.qtwebengine (The installer will handle these on Debian/Ubuntu).
+  Packages:  📦 python3-pyqt6, python3-pyqt6.qtwebengine (The installer will handle these on Debian/Ubuntu).
